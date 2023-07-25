@@ -9,4 +9,4 @@ const reverseString=(input)=> {
 
 const input = "hello world";
 const output = reverseString(input);
-console.log(output); // Output: "dlrow olleh"
+console.log(output); 
