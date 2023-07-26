@@ -1,4 +1,4 @@
-function romanToInt(roman) {
+const romanToInt=(roman)=> {
     const romanNumerals = {
       I: 1,
       V: 5,
