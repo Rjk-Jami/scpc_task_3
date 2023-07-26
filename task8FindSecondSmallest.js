@@ -25,5 +25,5 @@ const findSecondSmallest=(arr)=> {
   // Example usage:
   const numbers = [5, 9, 1, 5,3, 6];
   const secondSmallest = findSecondSmallest(numbers);
-  console.log("Second Smallest:", secondSmallest); // Output: Second Smallest: 2
+  console.log("Second Smallest:", secondSmallest); 
   
